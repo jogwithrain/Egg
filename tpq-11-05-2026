@@ -1,0 +1,7 @@
+1.)How might this program structure be applied in a more realistic scenario?
+A program that holds books, if a book is not there, throws an error that it's gone. A catch could help by setting the program to continue looking for other books while noting this one isn't in the system.
+
+
+2.)How could you have implemented the rotten egg behavior without using try-catch blocks?
+
+I would probably remove the throw and place in the eat_egg() that it's a bad egg that has been removed.
